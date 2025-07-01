@@ -7,12 +7,12 @@ I'm building my own operating system with a simple GUI. This roadmap tracks all 
 
 ## 📦 Phase 0: Toolchain and Emulator Setup
 
-- [ ] Install GCC Cross-Compiler (`x86_64-elf-gcc`)
+- [X] Install GCC Cross-Compiler (`x86_64-elf-gcc`)
   - 📖 [OSDev: GCC Cross-Compiler](https://wiki.osdev.org/GCC_Cross-Compiler)
-- [ ] Install QEMU for emulation
+- [X] Install QEMU for emulation
   - 📖 [QEMU OSDev Setup](https://wiki.osdev.org/QEMU)
-- [ ] Install GDB (for debugging)
-- [ ] Set up `make` and `nasm`/`ld` toolchain
+- [X] Install GDB (for debugging)
+- [X] Set up `make` and `nasm`/`ld` toolchain
 
 ---
 
